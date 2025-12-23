@@ -40,12 +40,20 @@ Create a `.env` file in the project root directory:
 touch .env
 ```
 
+Edit the `.env` file using nano:
+
+```bash
+nano .env
+```
+
 For the **Mistral version**, add your Mistral API key:
 ```
 MISTRAL_API_KEY=your_mistral_api_key_here
 ```
 
 For the **open source version**, the `.env` file can be empty (or you may add HuggingFace token if needed).
+
+After editing, save and exit nano by pressing `Ctrl+X`, then `Y` to confirm, and `Enter` to save.
 
 ### 3. Create a Virtual Environment
 
