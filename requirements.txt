@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+python-dotenv
+unstructured
+markdown
