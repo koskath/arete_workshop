@@ -69,19 +69,6 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 5. Navigate to Your Chosen Version
-
-Navigate to either `mistral_version` or `open_source_version` depending on your needs:
-
-```bash
-# For Mistral version:
-cd mistral_version
-
-# OR for open source version:
-cd open_source_version
-```
-
----
 
 ## Install Dependencies
 
@@ -92,10 +79,16 @@ cd ..
 pip3 install -r requirements.txt
 ```
 
-Then navigate back to your chosen version directory:
+### 5. Navigate to Your Chosen Version
+
+Navigate to either `mistral_version` or `open_source_version` depending on your needs:
 
 ```bash
-cd mistral_version  # or cd open_source_version
+# For Mistral version:
+cd mistral_version
+
+# OR for open source version:
+cd open_source_version
 ```
 
 ---
