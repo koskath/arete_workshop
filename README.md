@@ -70,7 +70,7 @@ source venv/bin/activate
 ```
 
 
-## Install Dependencies
+### 5. Install Dependencies
 
 Install required packages (from the project root):
 
@@ -79,7 +79,7 @@ cd ..
 pip3 install -r requirements.txt
 ```
 
-### 5. Navigate to Your Chosen Version
+### 6. Navigate to Your Chosen Version
 
 Navigate to either `mistral_version` or `open_source_version` depending on your needs:
 
