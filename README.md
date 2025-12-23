@@ -18,6 +18,11 @@ python3 --version
 
 ## Setup Instructions
 
+### 0. Navigate to the arete_workshop directory
+```bash
+cd arete_workshop
+```
+
 ### 1. Create a Virtual Environment
 
 From the project root:
