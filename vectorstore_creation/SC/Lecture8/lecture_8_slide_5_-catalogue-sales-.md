@@ -1,3 +1,0 @@
-# Slide 5 of Lecture 8 contains information about … Catalogue Sales …
-
-The slide contains the logos of: Quelle, Neckermann, Otto, Best

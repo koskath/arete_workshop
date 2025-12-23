@@ -1,1 +1,0 @@
-# Slide 11 of Lecture 1 contains the correspondance of the ML Course to nordic nine
